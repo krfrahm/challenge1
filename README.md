@@ -7,7 +7,7 @@ This project was to assist a the client; HoriSEOn in making their website more a
 ## Usage
 
 For repository: https://github.com/krfrahm/challenge1.git
-For website: 
+For website: http://krfrahm.github.io/challenge1
 
 
 ![Website screenshot 1](assets/images/screenshot1.png)
