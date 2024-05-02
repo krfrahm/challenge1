@@ -6,11 +6,12 @@ This project was to assist a the client; HoriSEOn in making their website more a
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+For repository: https://github.com/krfrahm/challenge1.git
+For website: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![Website screenshot 1](assets/images/screenshot1.png)
+![Website screenshot 2](assets/images/screenshot2.png)
 
 ## Credits
 
