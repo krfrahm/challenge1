@@ -8,15 +8,13 @@ body {
     background-color: #d9dcd6;
 }
 
+/* makes hyperlink text white and removes underline*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/*Sets text and background color only for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,6 +31,7 @@ p {
     background-position: center;
 }
 
+/*Float left and right classes tell the images where to be placed in the content section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -49,6 +48,7 @@ p {
     margin-left: 20px;
 }
 
+/*sets rules for entire benefits class, creaes a blue box aligned to the right on the page. gices font color, size, and weight*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -72,6 +72,7 @@ p {
     font-size: 48px;
 }
 
+/*creates spacing and alignment for the nav bar, float right gives right alignment*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -80,31 +81,32 @@ p {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
+/*makes the header list go across the header instead of down in list form*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*gives each section with in the benefits class spacing and white ext*/
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*defines header font and alignment for the benefits class within the aside*/
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*sets max width to the icons and gives block aliggnment*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*gives each section within the content class its own box with a blue background and white text*/
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +116,7 @@ p {
     color: #ffffff;
 }
 
+/*defines max size for the images in the content class*/
 .content img {
     max-height: 200px;
 }
