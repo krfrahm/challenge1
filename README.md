@@ -10,8 +10,8 @@ For repository: https://github.com/krfrahm/challenge1.git
 For website: http://krfrahm.github.io/challenge1
 
 
-![Website screenshot 1](assets/images/screenshot1.png)
-![Website screenshot 2](assets/images/screenshot2.png)
+![Website screenshot 1](assets/images/screenshot1.PNG)
+![Website screenshot 2](assets/images/screenshot2.PNG)
 
 ## Credits
 
